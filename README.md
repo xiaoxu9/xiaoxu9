@@ -10,7 +10,7 @@
 - 🍒  A post-00s person who loves software development.
 - 📍  广东(CT).
 - 👨‍🎓  CQU.
-- 👩‍💻  4 years of work.
+- 👩‍💻  3 years of work.
 <br/>
 <br/>
 
